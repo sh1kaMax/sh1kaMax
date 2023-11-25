@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a student of Itmo University :flag_russia:
+I'm a student of Itmo University 🇷🇺
 
 <!--
 **sh1kaMax/sh1kaMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
